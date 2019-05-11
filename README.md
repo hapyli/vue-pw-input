@@ -1,29 +1,20 @@
 # vue-pw-input
+[![npm](https://img.shields.io/npm/dm/vue-upload-component.svg?style=flat-square)](https://www.npmjs.com/package/vue-upload-component)  [![npm](https://img.shields.io/npm/v/vue-upload-component.svg?style=flat-square)](https://www.npmjs.com/package/vue-upload-component)  [![license](https://img.shields.io/github/license/lian-yue/vue-upload-component.svg?style=flat-square)](https://www.npmjs.com/package/vue-upload-component)  [![gzip](http://img.badgesize.io/lian-yue/vue-upload-component/master/dist/vue-upload-component.min.js.svg?compression=gzip&style=flat-square)](https://github.com/lian-yue/vue-upload-component)
+> 本插件是基于移动端密码输入框
 
-## Project setup
-```
-yarn install
-```
+## 安装
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
+``` bash
+npm install vue-pw-input
 ```
 
-### Compiles and minifies for production
+## 文档
+[link](https://note.youdao.com/)
+
+## 更新日志
 ```
-yarn run build
+1、初次提交
 ```
 
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## License
+[MIT](http://opensource.org/licenses/MIT)
